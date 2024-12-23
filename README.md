@@ -1,6 +1,6 @@
 # atlas-statlearn
 
-Classical statistical classification tools (ridge/lasso logistic regression, Naive Bayes) for the [ATLAS Higgs Boson Machine Learning Challenge 2014](https://opendata.cern.ch/record/328).
+Classical statistical classification tools (ridge/lasso logistic regression, Naive Bayes with a Kernel Density Estimator) for the [ATLAS Higgs Boson Machine Learning Challenge 2014](https://opendata.cern.ch/record/328).
 
 Some differences in the distributions of the different classes:
 
